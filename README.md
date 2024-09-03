@@ -5,7 +5,7 @@
  ## Bem-vindo(a) ao meu perfil ✨
 
 Sou uma profissional entusiasta por DevOps, sempre explorando o universo da tecnologia e aprendendo coisas novas. 
-Atualmente, estou me dedicando a estudar AWS (e suas certificações), serviçoes Cloud, Python, GitHub, Linux, Docker, Terraform... e tudo mais que envolve a área Cloud/DevOps. 
+Atualmente, estou me dedicando a estudar AWS (e suas certificações), Serviços Cloud, Python, GitHub, Linux, Docker, Terraform... e tudo mais que envolve a área Cloud/DevOps. 
 Gosto de resolver problemas, automatizar tarefas e descobrir ferramentas que tornam a vida mais fácil, além de querer entender como tudo funciona nos bastidores (sabe aquela tal da curiosidade? De saber como funciona, o que ela faz, como se faz, onde se aplica, como se multiplicam, onde dorme, comem (essas 2 finais são clássicas rsrs..)). 
 Estou sempre aberta a novos desafios que me permitam aprender e contribuir, mesmo que seja de forma simples, com a comunidade tech.
 
