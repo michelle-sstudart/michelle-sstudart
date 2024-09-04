@@ -6,10 +6,9 @@
 
 Sou uma profissional entusiasta por DevOps, sempre explorando o universo da tecnologia e aprendendo coisas novas. 
 Atualmente, estou me dedicando a estudar AWS (e suas certificações), Serviços Cloud, Python, GitHub, Linux, Docker, Terraform... e tudo mais que envolve a área Cloud/DevOps. 
-Gosto de encontrar soluções, automatizar tarefas, adaptabilidade e descobrir ferramentas que tornam a vida mais fácil, além de querer entender como tudo funciona nos bastidores (sabe aquela tal da curiosidade? De saber como funciona?, O que ela faz?, Como faz?, Onde se aplica?, Como desenbolve?, Onde dorme?, O que comem? (essas 2 finais são clássicas rsrs..)). 
+Tenho determinação por encontrar soluções criativas, simplificar processos e automatizar tarefas. Minha curiosidade me leva a explorar como as coisas funcionam nos bastidores — buscando entender o que fazem, como fazem e onde se aplicam. Adoro descobrir novas ferramentas que tornam o dia a dia mais fácil. E sim, sou do tipo que quer saber até onde elas 'dormem' e 'o que comem'! 😄
 
-Estou sempre aberta a novos desafios que me permitam aprender e contribuir, mesmo que seja de forma simples, com a comunidade tech. 
-Empolgada para aplicar esse conhecimento em projetos reais e colaborar com equipes que também amam inovação. 🚀
+Estou sempre aberta a novos desafios que me permitam aprender e contribuir, mesmo que seja de forma simples, com a comunidade tech. Estou empolgada para aplicar esse conhecimento em projetos reais e colaborar com equipes que também amam inovação.
 
 Se você também está nessa jornada, vamos trocar ideias e aprender juntos! 🚀
 
