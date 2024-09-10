@@ -1,5 +1,6 @@
-![capa github](https://github.com/user-attachments/assets/a6149ea3-7192-48ef-85f0-3c63b3314d9a)
 
+
+![OIP (1)](https://github.com/user-attachments/assets/605d06fb-cbcf-476b-bc2e-699ae9ce3438)
 
  ## ✨ Olá, sou **Michelle Sindeaux** 
 
