@@ -1,7 +1,6 @@
 
-![fundo de capa github](https://github.com/user-attachments/assets/23abd219-a26a-461b-a8db-8da42be61ca4)
-
  
+![fundo github](https://github.com/user-attachments/assets/7ee51bb8-6597-480e-9f51-f437aba71ab7)
 
  ## ✨ Olá, sou **Michelle Sindeaux** 
 
