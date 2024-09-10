@@ -1,6 +1,5 @@
 
- 
-![image](https://github.com/user-attachments/assets/469e8447-407b-4e1f-be3e-c60f0dd4b40d)
+ ![OIP](https://github.com/user-attachments/assets/27338b70-feb5-49ed-934c-3093a2e08301)
 
 
  ## ✨ Olá, sou **Michelle Sindeaux** 
