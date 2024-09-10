@@ -1,6 +1,6 @@
 
+![capagit](https://github.com/user-attachments/assets/e243c597-fb7a-450c-92a9-3ce6ec59f3b7)
 
-![OIP (1)](https://github.com/user-attachments/assets/605d06fb-cbcf-476b-bc2e-699ae9ce3438)
 
  ## ✨ Olá, sou **Michelle Sindeaux** 
 
